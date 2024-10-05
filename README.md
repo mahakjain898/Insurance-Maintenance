@@ -1,7 +1,5 @@
 # INFO-7255: Adv Big Data Indexing Techniques
 
-[![Unit Test Suite](https://github.com/sydrawat01/INFO7255/actions/workflows/test-suite.yml/badge.svg)](https://github.com/sydrawat01/INFO7255/actions/workflows/test-suite.yml)
-
 A course on distributed systems and big data indexing techniques.
 
 ## Automated Setup
